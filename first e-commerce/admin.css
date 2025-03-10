@@ -1,0 +1,12 @@
+*{
+    padding: 0; 
+    margin: 0;
+}
+.admin-hd{
+    background-color: red;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}

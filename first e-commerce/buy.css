@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.proImg{
+    /* border: 2px solid black; */
+    height: 60%;
+    width: 30%;
+}
+.proInfo{
+    /* border: 2px solid red; */
+    height: 60%;
+    width: 40%;
+    text-align: center;
+    font-size: 1.4rem;
+  
+}
+.proTitle{
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+.proPrice{
+    margin-bottom: 30px;
+}
+.proDesc{
+    line-height: 40px;
+}
+.buyBtn{
+    width: 150px;
+    height: 60px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
